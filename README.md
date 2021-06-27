@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
 - HTML and CSS
 - 📫 How to reach me ...
-Instagram: @thiago_@_oliveira
+Instagram: @thiago_r_oliveira
 Email: thiagordrgs89@gmail.com
 <!---
 oliveira97/oliveira97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
