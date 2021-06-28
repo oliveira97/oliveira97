@@ -1,4 +1,4 @@
-Hello there, I'm Thiago Rodrigues Oliveira (@oliveira97), I'm interested in: Python, HTML, CSS and JavaScript. I’m currently learning HTML and CSS on "curso em video".
+Hello there, i'm Thiago Rodrigues Oliveira (@oliveira97), i'm interested in: Python, HTML, CSS and JavaScript. I’m currently learning HTML and CSS on "curso em video".
 How to reach me:
 Instagram: @thiago_r_oliveira
 Email: thiagordrgs89@gmail.com
