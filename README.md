@@ -1,4 +1,5 @@
-Hello there, i'm Thiago Rodrigues Oliveira (@oliveira97), i'm interested in: Python, HTML, CSS and JavaScript. I’m currently learning HTML and CSS on "curso em video".
+Sejam todos bem-vindos ao meu portifólio!
+Atualmente estou estudando JavaScript no "Curso em vídeo", estou gostando muito de aprender essa incrível linguagem :)
 
 <div>
   <a href="https://github.com/oliveira97">
