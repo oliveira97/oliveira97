@@ -1,4 +1,4 @@
-Sejam todos bem-vindos ao meu portifólio!
+Sejam todos bem-vindos ao meu portifólio!<br>
 Atualmente estou estudando JavaScript no "Curso em vídeo", estou gostando muito de aprender essa incrível linguagem :)
 
 <div>
