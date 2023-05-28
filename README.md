@@ -1,5 +1,5 @@
 Sejam todos bem-vindos ao meu portifólio!<br>
-Atualmente estou estudando JavaScript no "Curso em vídeo", estou gostando muito de aprender essa incrível linguagem :)
+Atualmente estou estudando html e css mas meu objetivo é ser um desenvolvedor back-end :)
 
 <div>
   <a href="https://github.com/oliveira97">
